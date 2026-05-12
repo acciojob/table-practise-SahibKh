@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-table, tbody, thead{
+table, th, td{
      border: 1px solid black;
 }
